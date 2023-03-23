@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+.heading{
+    background: url(categorybgg.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 12rem;
+    padding-bottom: 8rem;
+    
+    
+}
+h1{
+    color: black;
+    font-size: 4rem;
+}
+p{
+
+}
